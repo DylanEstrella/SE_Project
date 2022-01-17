@@ -18,3 +18,6 @@ This circuit was designed to help a garbage collection company that needs an aut
 <ul>
   <li>functions.py</li>
 </ul>
+
+<h2>Schematics</h2>
+
