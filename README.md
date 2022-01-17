@@ -2,11 +2,10 @@
 Embedded system project
 
 <h1>Dependencies</h1>
-1.XD
-  - Keypad.c
-  - LCD.c
-  - functions.c
-  - menu.c
-  - serial.c
-  - setup.c
-
+<ul>
+  <li>Keypad.c</li>
+  <li>LCD.c</li>
+  <li>functions.c</li>
+  <li>serial.c</li>
+  <li>setup.c</li>
+</ul>
