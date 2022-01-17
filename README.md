@@ -19,6 +19,6 @@ This circuit was designed to help a garbage collection company that needs an aut
   <li>functions.py</li>
 </ul>
 
-<h2>Schematics</h2>
+<h2>Schematic</h2>
 
 ![alt text](https://github.com/DylanEstrella/SE_Project/blob/main/IMG/Schematic.BMP)
