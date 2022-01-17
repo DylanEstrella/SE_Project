@@ -9,3 +9,13 @@ Embedded system project
   <li>serial.c</li>
   <li>setup.c</li>
 </ul>
+
+<h1>Dependencies</h1>
+<ul>
+  <li>Keypad.c</li>
+  <li>LCD.c</li>
+  <li>functions.c</li>
+  <li>serial.c</li>
+  <li>setup.c</li>
+</ul>
+
