@@ -1,2 +1,2 @@
-# SE_Project
+## SE_Project
 Embedded system project
