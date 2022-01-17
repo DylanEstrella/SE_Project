@@ -21,3 +21,4 @@ This circuit was designed to help a garbage collection company that needs an aut
 
 <h2>Schematics</h2>
 
+![alt text](https://github.com/DylanEstrella/SE_Project/blob/main/IMG/Step%201.png)
