@@ -1,6 +1,10 @@
 <h1>SE_Project</h1>
 Embedded system project
 
+<h2>Description</h2>
+<p>  
+This circuit was designed to help a garbage collection company that needs an automated system to assign a truck to each of its orders.
+</p>
 <h2>Dependencies main.c</h2>
 <ul>
   <li>Keypad.c</li>
