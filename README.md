@@ -1,6 +1,6 @@
-<h1>SE_Project</h1>
-Embedded system project
+<h1>Embedded system project: </h1>
 
+<h3>Automated truck selection system for industrial and non-industrial waste collection.</h3>
 <h2>Description</h2>
 <p>  
 This circuit was designed to help a garbage collection company that needs an automated system to assign a truck to each of its orders.
