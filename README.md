@@ -23,6 +23,6 @@ This circuit was designed to help a garbage collection company that needs an aut
 
 ![project_schematic](https://github.com/DylanEstrella/SE_Project/blob/main/IMG/Schematic.BMP)
 
-<a href="https://github.com/DylanEstrella/SE_Project/blob/main/Proteus_archives/Readme.md#simulation-captures">
-  <h4><b>Simulation captures</b></h4>
-</a>
+
+<h4><b>Simulation captures[https://github.com/DylanEstrella/SE_Project/blob/main/Proteus_archives/Readme.md#simulation-captures]</b></h4>
+
