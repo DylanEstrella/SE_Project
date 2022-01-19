@@ -11,12 +11,14 @@ This circuit was designed to help a garbage collection company that needs an aut
   <li>LCD.c - For control of the LCD</li>
   <li>functions.c - Some simple functions</li>
   <li>serial.c - Serial is a library for I2C comunnication </li>
-  <li>setup.c - Initial configuration for ATMEGA328P</li>
+  <li>setup.c - Initial configuration for ATMEGA328P</li><br>
+  <li>All dependencies are in the folde C Dependencies</li>
 </ul>
 
 <h2>Dependencies main.py</h2>
 <ul>
-  <li>functions.py - Functions used in Main.py</li>
+  <li>functions.py - Functions used in Main.py</li><br>
+  <li>This dependencie is in the folder Python Dependencies</li>
 </ul>
 
 <h2>Schematic</h2>
