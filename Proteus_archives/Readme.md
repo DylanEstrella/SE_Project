@@ -21,5 +21,7 @@
 <p> At this time it is possible to write a number between 0 and 20000. 
 If the number is out of this range, the LCD will show an error.   </p>
 
+<hr></hr>
 
-
+![alt text](https://github.com/DylanEstrella/SE_Project/blob/main/IMG/Step4.png)
+<p> Here it is observed that the entered values were sent to ThingSpeak</p>
