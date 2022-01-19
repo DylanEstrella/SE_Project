@@ -7,16 +7,16 @@ This circuit was designed to help a garbage collection company that needs an aut
 </p>
 <h2>Dependencies main.c</h2>
 <ul>
-  <li>Keypad.c</li>
-  <li>LCD.c</li>
-  <li>functions.c</li>
-  <li>serial.c</li>
-  <li>setup.c</li>
+  <li>Keypad.c - For control of Keypad</li>
+  <li>LCD.c - For control of the LCD</li>
+  <li>functions.c - Some simple functions</li>
+  <li>serial.c - Serial is a library for I2C comunnication </li>
+  <li>setup.c - Initial configuration for ATMEGA328P</li>
 </ul>
 
 <h2>Dependencies main.py</h2>
 <ul>
-  <li>functions.py</li>
+  <li>functions.py - Functions used in Main.py</li>
 </ul>
 
 <h2>Schematic</h2>
