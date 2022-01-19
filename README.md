@@ -25,5 +25,5 @@ This circuit was designed to help a garbage collection company that needs an aut
 
 
 <h4><b>Simulation captures </b></h4>
-[Here](https://github.com/DylanEstrella/SE_Project/blob/main/Proteus_archives/Readme.md#simulation-captures)
+![Here](https://github.com/DylanEstrella/SE_Project/blob/main/Proteus_archives/Readme.md#simulation-captures)
 
