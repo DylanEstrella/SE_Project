@@ -14,7 +14,7 @@
 
 <p>The LCD screen indicates that we must select a type of waste, if a button other than "1" or "2" is pressed nothing will happen.  </p>
 ![alt text](https://github.com/DylanEstrella/SE_Project/blob/main/IMG/Step%201.png)
-<hr></hr>
+
 <p> At this time it is possible to write a number between 0 and 20000. 
 If the number is out of this range, the LCD will show an error.   </p>
 ![alt text](https://github.com/DylanEstrella/SE_Project/blob/main/IMG/Step2.png)
