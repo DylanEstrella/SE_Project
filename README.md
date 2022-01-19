@@ -12,7 +12,7 @@ This circuit was designed to help a garbage collection company that needs an aut
   <li>functions.c - Some simple functions</li>
   <li>serial.c - Serial is a library for I2C comunnication </li>
   <li>setup.c - Initial configuration for ATMEGA328P</li><br>
-  <li>All dependencies are in the folde C Dependencies</li>
+  <li>All dependencies are in the folder C Dependencies</li>
 </ul>
 
 <h2>Dependencies main.py</h2>
