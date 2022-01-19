@@ -30,4 +30,4 @@ If the number is out of this range, the LCD will show an error.   </p>
 
 ![alt text](https://github.com/DylanEstrella/SE_Project/blob/main/IMG/Step7.png)
 <p>When the process ends then you will have to press the "*" key to send another data</p><br>
-<p>The "raspberry pi 4" prints the content of the archive on the Local Data version, and in the FireBase version prints info from a FireBase database</p>
+<p>The "raspberry pi 4" prints the content of the file in the local data version and in the FireBase version it prints information from a FireBase database</p>
