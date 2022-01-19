@@ -5,7 +5,7 @@
 
 <ul>
   <li><h3>Proyecto Guardando Localmente Datos </h3></li>
-  <li> In this file, the raspberry pi 4 only saves the received data in a local file created by it. </li>
+  <li> In this file, the raspberry pi 4 only saves the state of the truck in a local file created by it. </li>
   <li><h3>Proyecto usando Firebase </h3></li>
   <li>In this version the state of the truck is saved in a database in FireBase</li>
 </ul>
